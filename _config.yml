@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Collective Voices for Buildings in India'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/cvb-india.svg"
   mobile_height: "32px"
-  mobile_width: "32px"
+  mobile_width: "120px"
   desktop: "images/logo/cvb-india.svg"
   desktop_height: "64px"
   desktop_width: "240px"
