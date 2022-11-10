@@ -5,6 +5,3 @@ weight: 1
 ---
 
 Another vertical under digitizing buildings with focus on exploring health & wellness within built-environment
-
-# Objectives
-TODO...
