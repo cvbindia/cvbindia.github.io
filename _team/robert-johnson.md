@@ -1,10 +1,11 @@
 ---
-title: "Robert Johnson"
-date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
-linkedinurl: "https://www.linkedin.com/"
-weight: 3
+title: "Jay Dhariwal"
+date: 2022-11-11T12:12:12+05:30
+image: "images/team/jay.jpg"
+jobtitle: "Assistant Professor"
+linkedinurl: "https://in.linkedin.com/in/jaydhariwal"
+promoted: true
+weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Jay Dhariwal is an Assistant Professor at Department Of Design, IIT Delhi, India.
