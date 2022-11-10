@@ -1,10 +1,11 @@
 ---
-title: "Mike Vance"
-date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
-jobtitle: "Art Director"
-linkedinurl: ""
-weight: 3
+title: "Chirag Deb"
+date: 2022-11-11T12:12:12+05:30
+image: "images/team/samy.jpg"
+jobtitle: "Assistant Professor"
+linkedinurl: "https://ch.linkedin.com/in/chirag-deb-701b3b53"
+promoted: true
+weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Chirag Deb is an Assistant Professor at Centre For Urban Science & Engineeringiit Bombay, Mumbai, India.
