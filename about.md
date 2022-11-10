@@ -5,6 +5,8 @@ description: About Us
 bodyClass: page-about
 ---
 
+![Green Energy](/images/illustrations/green-energy2.png)
+
 # Who We Are
 
 CVBi is an independent research cluster founded by a group of young and passionate professionals who share a collective ambitious goal “to decarbonize the building industry in India”.
@@ -15,7 +17,6 @@ CVBi firmly believes in democratizing the collective voices of the scientific co
 
 # How it started?
 In March 2021, Balaji Kalluri, one of the co-founders of this cluster who was then Heading Innovation in e-Governance in the state of Tamil Nadu, made a bold statement to other co-founders (Chirag Deb, Jay Dhariwal, Prashant Anand, and Pandarasamy Arjunan) expressing his interest to collaboratively build an independent research cluster. The BOLD vision is to digitally transform the building industry in India as a strategic move towards enabling the green-transition. The idea emerged from collective observations on national and global trends surrounding digital transformation plus carbon-neutral commitments made by the nation in the COP26 summit.
-
 
 # Charter
 
