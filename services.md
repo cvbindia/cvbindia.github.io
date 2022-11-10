@@ -1,12 +1,12 @@
 ---
-title: Services
+title: Focus Areas
 layout: services
-description: Services
+description: Focus Areas
 intro_image: "images/illustrations/research1.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Strategic Activities
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+We envisage the following strategic action plans for our research cluster. This will guide our collective research, engagement, and innovation activities around transforming the design, construction, and operation of the built environment in the next decades. 
