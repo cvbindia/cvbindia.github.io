@@ -1,87 +1,27 @@
 ---
-title: About
+title: About Us
 layout: page
-description: About
+description: About Us
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# Who We Are
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+CVBi is an independent research cluster founded by a group of young and passionate professionals who share a collective ambitious goal “to decarbonize the building industry in India”.
 
-# Objectives
+# Ethos
 
-Financial accounting and financial reporting are often used as synonyms.
+CVBi firmly believes in democratizing the collective voices of the scientific community in a responsible manner such that it guides the society (industry, governance, academia) towards decarbonization pathways (in the future) with strategic and concrete action plans based on evidences.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+# How it started?
+In March 2021, Balaji Kalluri, one of the co-founders of this cluster who was then Heading Innovation in e-Governance in the state of Tamil Nadu, made a bold statement to other co-founders (Chirag Deb, Jay Dhariwal, Prashant Anand, and Pandarasamy Arjunan) expressing his interest to collaboratively build an independent research cluster. The BOLD vision is to digitally transform the building industry in India as a strategic move towards enabling the green-transition. The idea emerged from collective observations on national and global trends surrounding digital transformation plus carbon-neutral commitments made by the nation in the COP26 summit.
 
-## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+# Charter
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Original Goal
+To carry out nationwide building energy benchmarking exercises in India at a scale and report insights, challenges, best practices, and barriers which should be the first of such kind in India.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+## Our Strategic Plan
+We are provoked to think BIG, can we take advantage of our strategic locations, our shared interest, and our mutual network of connections to set up nationwide consortia, let's say one city in North (Delhi) led by Jay, East (Kolkatta) led by Prashant, West (Bombay) led by Chirag and South (Chennai) led by Bala to begin with. 
