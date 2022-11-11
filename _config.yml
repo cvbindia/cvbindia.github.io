@@ -12,6 +12,7 @@ logo:
 
 home: 
   limit_services: 6
+  limit_activities: 6
 
 collections:
   services:
