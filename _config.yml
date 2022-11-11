@@ -17,10 +17,18 @@ collections:
   services:
     output: true
     sort_by: weight
+  activities:
+    output: true
+    sort_by: weight    
   team:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "activities"
+    values:
+      layout: "activity"
   - scope:
       path: ""
       type: "services"
