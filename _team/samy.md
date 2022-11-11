@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Pandarasamy Arjunan is a postdoctoral scholar at Berkeley Education Alliance for Research in Singapore (BEARS) Limited, a University of California, Berkeley’s research centre, in Singapore.
+Dr. Pandarasamy Arjunan is a postdoctoral scholar at Berkeley Education Alliance for Research in Singapore (BEARS) Limited, a University of California, Berkeley’s research centre, in Singapore.
