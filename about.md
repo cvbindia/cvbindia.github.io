@@ -5,8 +5,6 @@ description: About Us
 bodyClass: page-about
 ---
 
-![Green Energy](/images/illustrations/green-energy2.png)
-
 # Who We Are
 
 CVBi is an independent research cluster founded by a group of young and passionate professionals who share a collective ambitious goal “to decarbonize the building industry in India”.
