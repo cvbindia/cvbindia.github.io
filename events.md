@@ -10,5 +10,4 @@ Building energy benchmarking is a proven energy management strategy that can pos
 
 The ACM SIGEnergy international workshop on “Advances in Building Energy Benchmarking” invites papers on the current developments in building energy benchmarking. Researchers and practitioners working on data acquisition technology and processes, data sharing protocols and policies, benchmarking modeling methodologies, standardization and widespread adoption, strategy and collaboration, case studies, open source platforms and crowdsourcing are invited to participate. The workshop also aims to explore the existing challenges in data acquisition techniques in emerging economies. It will foster a discussion on the widespread adoption of energy benchmarking methods while bringing together researchers and practitioners from diverse backgrounds to discuss related challenges and breakthroughs.
 
-## History
-  - [BenchSys 2022](https://benchsys.github.io/2022/) (co-located with [ACM SenSys/BuildSys 2022](https://buildsys.acm.org/2022/))
+[BenchSys 2022](https://benchsys.github.io/2022/) is co-located with [ACM SenSys/BuildSys 2022](https://buildsys.acm.org/2022/).
