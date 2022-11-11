@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Jay Dhariwal is an Assistant Professor at Department Of Design, IIT Delhi, India.
+Dr. Jay Dhariwal is an Assistant Professor at Department Of Design, IIT Delhi, India.
