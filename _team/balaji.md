@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Dr. Balaji Kalluri is an Assistant Professor at FLAME School of Computing and Data Sciences, FLAME University, Pune, India.
+Balaji Kalluri is an Assistant Professor at FLAME School of Computing and Data Sciences, FLAME University, Pune, India.
