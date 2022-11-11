@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Chirag Deb is an Assistant Professor at Centre For Urban Science & Engineeringiit Bombay, Mumbai, India.
+Dr. Chirag Deb is an Assistant Professor at Centre For Urban Science & Engineeringiit Bombay, Mumbai, India.
