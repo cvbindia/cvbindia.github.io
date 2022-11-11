@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Prashant Anand is an Assistant Professor at Department Of Architecture & Regional Planning, IIT Kharagpur, India.
+Dr. Prashant Anand is an Assistant Professor at Department Of Architecture & Regional Planning, IIT Kharagpur, India. His current research interest is to investigate the impact of outdoor/indoor pollutants and viral loads on building system control, system-level and building-level energy efficiency, and on zone level occupant’s health and wellbeing.
