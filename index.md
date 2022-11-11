@@ -4,7 +4,7 @@ layout: home
 description: CVBi is an initiative to Digitize and Decorbanize the buildings in India.
 intro_image: "images/illustrations/building2.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
 ---
 
