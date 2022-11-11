@@ -11,13 +11,13 @@ logo:
   desktop_width: "180px"
 
 home: 
-  limit_services: 6
+#  limit_services: 6
   limit_activities: 6
 
 collections:
-  services:
-    output: true
-    sort_by: weight
+#  services:
+#    output: true
+#    sort_by: weight
   activities:
     output: true
     sort_by: weight    
@@ -30,11 +30,11 @@ defaults:
       type: "activities"
     values:
       layout: "activity"
-  - scope:
-      path: ""
-      type: "services"
-    values:
-      layout: "service"
+#  - scope:
+#      path: ""
+#      type: "services"
+#    values:
+#      layout: "service"
   - scope:
       path: ""
       type: "team"
