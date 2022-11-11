@@ -1,6 +1,6 @@
 ---
 title: Focus Areas
-layout: services
+layout: activities
 description: Focus Areas
 intro_image: "images/illustrations/research1.png"
 intro_image_absolute: false
