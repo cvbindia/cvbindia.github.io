@@ -10,4 +10,8 @@ show_call_box: true
 
 # Collective Voices for Buildings in India (CVBi)
 
-CVBi is an initiative to Digitize and Decorbanize the buildings in India.
+CVBi is a collaborative initiative to strategically digitize systems within the built-environment, democratize building information, and thus leading the efforts towards decorbanizing the building sector in India.
+
+# Hot-Off-The PRESS !! 
+
+Proceedings of [ACM BenchSys 2022](https://dl.acm.org/doi/abs/10.1145/3563357.3568738)
